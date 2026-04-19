@@ -316,8 +316,3 @@ class NewsCrew:
             verbose=True,
             tracing=True,
         )
-
-
-news_crew = NewsCrew()
-
-news_crew.crew().kickoff()
